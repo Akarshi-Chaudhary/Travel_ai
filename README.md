@@ -61,8 +61,8 @@ TravelAI/
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/Ayushkr2736/TravelAI.git
-   cd TravelAI
+   git clone https://github.com/Akarshi-Chaudhary/Travel_ai.git
+   cd Travel_ai
    ```
 
 2. **Install dependencies:**
@@ -95,10 +95,10 @@ TravelAI/
 
 ---
 
-## 👨‍💻 Author
+## 👩‍💻 Author
 
-**Ayush Rajak**
-- GitHub: [@Ayushkr2736](https://github.com/Ayushkr2736)
+**Akarshi Chaudhary**
+- GitHub: [@Akarshi-Chaudhary](https://github.com/Akarshi-Chaudhary)
 
 ---
 
